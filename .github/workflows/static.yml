@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meraj Ishtiyaque Sayed professional portfolio page">
+    <title>Meraj Ishtiyaque Sayed - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            margin: 1rem;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        section {
+            padding: 2rem;
+            margin: 1rem auto;
+            max-width: 1000px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        .container {
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Header Section -->
+<header>
+    <h1>Welcome to Meraj Ishtiyaque Sayed Portfolio</h1>
+</header>
+
+<!-- Navigation Links -->
+<nav>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<!-- Services Section -->
+<section id="services">
+    <h2>Services</h2>
+    <p>Meraj Ishtiyaque Sayed offers a wide range of services including SEO, content writing, and digital marketing strategies. His expertise helps businesses grow their online presence and boost engagement.</p>
+</section>
+
+<!-- About Section -->
+<section id="about">
+    <h2>About Meraj Ishtiyaque Sayed</h2>
+    <p>Meraj Ishtiyaque Sayed is a digital marketing expert with a focus on helping businesses achieve sustainable growth through SEO and content strategy. With a proven track record, Meraj has worked with top companies in the industry to deliver outstanding results.</p>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Get in touch with Meraj Ishtiyaque Sayed for collaboration or inquiries.</p>
+    <p>Email: <a href="mailto:contact@merajsayed.com">contact@merajsayed.com</a></p>
+    <p>Phone: 9930277181</p>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>© 2024 Meraj Ishtiyaque Sayed. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
